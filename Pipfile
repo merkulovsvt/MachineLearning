@@ -1,0 +1,36 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+pandas = "*"
+seaborn = "*"
+matplotlib = "*"
+scipy = "*"
+jupyter = "*"
+numpy = "*"
+mpld3 = "*"
+imblearn = "*"
+catboost = "*"
+dask-ml = "*"
+fastapi = "*"
+uvicorn = "*"
+psycopg2 = "*"
+requests = "*"
+transformers = "*"
+torch = "*"
+keras = "*"
+nltk = "*"
+wordcloud = "*"
+apache-airflow = "*"
+streamlit = "*"
+scikit-learn = "*"
+mlxtend = "*"
+category-encoders = "*"
+lightgbm = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.10"
