@@ -19,7 +19,6 @@ uvicorn = "*"
 psycopg2 = "*"
 requests = "*"
 transformers = "*"
-torch = "*"
 keras = "*"
 nltk = "*"
 wordcloud = "*"
@@ -29,6 +28,10 @@ scikit-learn = "*"
 mlxtend = "*"
 category-encoders = "*"
 lightgbm = "*"
+openpyxl = "*"
+torch = "*"
+torchvision = "*"
+torchaudio = "*"
 
 [dev-packages]
 
